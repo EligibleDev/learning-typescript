@@ -6,3 +6,6 @@ I am following this [playlist](https://www.youtube.com/playlist?list=PLRAV69dS1u
 # class1
 To declare some simple variables we don't need to write the type name, because typescript is intelligent enough to detect weather you want to assign a string or a number<br>
 And it will still give error if you will assign other types. 
+
+# class2
+when we declare a variable without specifying the type, it'll grab the type "any" and will not give any error if we assign it with other types
